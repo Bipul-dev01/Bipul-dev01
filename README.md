@@ -8,7 +8,7 @@
 🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. <br/><br/> 
 
 
-###🔸 Expertise / Skill Sets 
+🔸 ###Expertise / Skill Sets 
 
  ☛ WordPress & Woo Commerce Expert <br/>  
  ☛ eCommerce & Shopify Expert <br/>  
