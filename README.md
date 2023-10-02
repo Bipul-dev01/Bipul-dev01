@@ -74,7 +74,7 @@ Skills: JS / Bootstrap/Node JS/MailChimp
   
 
 <br/>  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Bipul-dev01)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul-dev01)](https://github.com/anuraghazra/github-readme-stats)
 
