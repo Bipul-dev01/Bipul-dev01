@@ -1,6 +1,6 @@
 ![I am Web Developer & Email Specialist](https://media.licdn.com/dms/image/D5616AQGobUTyGhiBiA/profile-displaybackgroundimage-shrink_350_1400/0/1694973004071?e=1701907200&v=beta&t=DcHmds6gk-BludTWSnjX022Tj6rOPyCT41UcSQcHqI0)
 
-### Hi there 👋, my name is Tajul Islam Bipul
+## Hi there 👋, my name is Tajul Islam Bipul
 #### I am Web Developer & Email Specialist
 
 🔸I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. I am very nice & outspoken person. I get along with almost everyone. 
@@ -10,21 +10,19 @@
 
 🔸 Expertise / Skill Sets 
 
- ☛ WordPress & Woo Commerce Expert 
- ☛ eCommerce & Shopify Expert 
- ☛ Bootstrap coded responsive PSD to HTML/Bootstrap
- ☛ Custom JavaScript designed custom plugin 
- ☛ Click Funnel & Sales Funnel Expert 
- ☛ Mailer Lite/Mailchimp/ Klaviyo/ Get Response Email Platform Expert
- ☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.
- ☛ Digital Marketing & Social Media Marketer(SMM)
- ☛ Google ads, Facebook ads, ecommerce marketing & Search Engine Marketing(SEM) Expert 
- ☛ Lead Generation Expert & Finding business email and contact details 
- ☛ Search Engine Optimization (SEO), On page SEO & Off page SEO Expert 
- ☛ Website Maintenance & Website Optimization 
- ☛ Website speed increase & SEO
- ☛ Email Marketing & eCommerce Automation 
- ☛ Virtual Assistant/ Web Researcher/ Data Entry Expert
+ ☛ WordPress & Woo Commerce Expert <br/>  
+ ☛ eCommerce & Shopify Expert <br/>  
+ ☛ Custom JavaScript designed custom plugin <br/>  
+ ☛ Click Funnel & Sales Funnel Expert <br/>  
+ ☛ Mailchimp/ Klaviyo/ Get Response Email Platform Expert<br/>  
+ ☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.<br/>  
+ ☛ Digital Marketing & Social Media Marketer(SMM)<br/>  
+ ☛ Google ads, Facebook ads, ecommerce marketing & Search Engine Marketing(SEM) Expert <br/>  
+ ☛ Search Engine Optimization (SEO), On page SEO & Off page SEO Expert <br/>  
+ ☛ Website Maintenance & Website Optimization <br/>  
+ ☛ Website speed increase & SEO<br/>  
+ ☛ Email Marketing & eCommerce Automation <br/>  
+ ☛ Virtual Assistant/ Web Researcher/ Data Entry Expert<br/>  
 
 
  ✅ CONTACT ME: 
@@ -33,13 +31,13 @@ While that is most effective discussion of that I can offer. I welcome the possi
  
 You can reach me at this number:
 
-☛email : worldtechnovision@gmail.com
-☛+880 1712602914 (WhatsApp)
-☛+880 1625316831 
+☛email : worldtechnovision@gmail.com<br/> 
+☛+880 1712602914 (WhatsApp)<br/> 
+☛+880 1625316831 <br/> 
 Dhaka, Bangladesh.
 
 
- Cordially Thanks for visit my profile. Keep safe & healthy.
+Cordially Thanks for visit my profile. Keep safe & healthy.
 
 Skills: JS / Bootstrap/Node JS/MailChimp
 
