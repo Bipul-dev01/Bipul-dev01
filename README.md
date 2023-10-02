@@ -5,10 +5,10 @@
 
 🔸I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. I am very nice & outspoken person. I get along with almost everyone. 
 
-🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. <br/> 
+🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. <br/><br/> 
 
 
-🔸 Expertise / Skill Sets 
+###🔸 Expertise / Skill Sets 
 
  ☛ WordPress & Woo Commerce Expert <br/>  
  ☛ eCommerce & Shopify Expert <br/>  
