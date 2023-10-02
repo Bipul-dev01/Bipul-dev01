@@ -5,22 +5,20 @@
 
 🔸I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. I am very nice & outspoken person. I get along with almost everyone. 
 
-🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. 
+🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. <br/> 
 
 
 🔸 Expertise / Skill Sets 
 
  ☛ WordPress & Woo Commerce Expert <br/>  
  ☛ eCommerce & Shopify Expert <br/>  
- ☛ Custom JavaScript designed custom plugin <br/>  
- ☛ Click Funnel & Sales Funnel Expert <br/>  
+ ☛ Custom JavaScript designed custom plugin <br/>    
  ☛ Mailchimp/ Klaviyo/ Get Response Email Platform Expert<br/>  
  ☛ HTML, CSS. BOOTSTRAP, JAVASCRIPT, JQUERY, WordPress Bug/ Error Fixing.<br/>  
  ☛ Digital Marketing & Social Media Marketer(SMM)<br/>  
  ☛ Google ads, Facebook ads, ecommerce marketing & Search Engine Marketing(SEM) Expert <br/>  
  ☛ Search Engine Optimization (SEO), On page SEO & Off page SEO Expert <br/>  
  ☛ Website Maintenance & Website Optimization <br/>  
- ☛ Website speed increase & SEO<br/>  
  ☛ Email Marketing & eCommerce Automation <br/>  
  ☛ Virtual Assistant/ Web Researcher/ Data Entry Expert<br/>  
 
