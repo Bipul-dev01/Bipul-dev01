@@ -8,7 +8,7 @@
 🔸I am a Front End web designer & developer with industry experience building websites and web applications. I specialize in JavaScript and have professional experience working with the library of react & bootstrap. <br/><br/> 
 
 
-🔸 ###Expertise / Skill Sets 
+🔸 Expertise / Skill Sets 
 
  ☛ WordPress & Woo Commerce Expert <br/>  
  ☛ eCommerce & Shopify Expert <br/>  
@@ -20,7 +20,7 @@
  ☛ Search Engine Optimization (SEO), On page SEO & Off page SEO Expert <br/>  
  ☛ Website Maintenance & Website Optimization <br/>  
  ☛ Email Marketing & eCommerce Automation <br/>  
- ☛ Virtual Assistant/ Web Researcher/ Data Entry Expert<br/>  
+ ☛ Virtual Assistant/ Web Researcher/ Data Entry Expert<br/>  <br/>
 
 
  ✅ CONTACT ME: 
@@ -35,7 +35,7 @@ You can reach me at this number:
 Dhaka, Bangladesh.
 
 
-Cordially Thanks for visit my profile. Keep safe & healthy.
+Cordially Thanks for visit my profile. Keep safe & healthy.<br/><br/> 
 
 Skills: JS / Bootstrap/Node JS/MailChimp
 
