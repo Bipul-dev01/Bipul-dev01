@@ -50,7 +50,7 @@ Skills: JS / Bootstrap/Node JS/MailChimp
 - 📫 How to reach me: You can reach me at this number:  ☛email : worldtechnovision@gmail.com ☛+880 1712602914 (WhatsApp) ☛+880 1625316831 Dhaka, Bangladesh. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bipul-dev01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tajul-islam-bipul-01dh//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/bipul.kumar.3386)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/bipul_kumar_dharla//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/BipulTajul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://bipul-dev.github.io/Modern-Portfolio-Website/.)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01da92566ac5d980d2)  
+
 
 ## Connect with me  
 <div align="center">
@@ -80,6 +80,4 @@ Skills: JS / Bootstrap/Node JS/MailChimp
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-dev01&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bipul-dev01)  
 
-![Profile views](https://gpvc.arturio.dev/Bipul-dev01)  
