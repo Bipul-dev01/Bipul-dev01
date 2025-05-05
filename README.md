@@ -1,4 +1,4 @@
-![I am Web Developer & Email Specialist](https://media.licdn.com/dms/image/D5616AQGobUTyGhiBiA/profile-displaybackgroundimage-shrink_350_1400/0/1694973004071?e=1701907200&v=beta&t=DcHmds6gk-BludTWSnjX022Tj6rOPyCT41UcSQcHqI0)
+
 
 ## Hi there 👋, my name is Tajul Islam Bipul
 #### I am Web Developer & Email Specialist
