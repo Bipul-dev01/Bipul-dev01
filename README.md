@@ -82,8 +82,3 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 <br/>  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bipul-dev01)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bipul-dev01&show_icons=true&count_private=true)  
-
-
