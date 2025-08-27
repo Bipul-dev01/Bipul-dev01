@@ -61,13 +61,7 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 
 ## 🤝 Connect with me  
 
-<p align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bipul-dev01) 
-[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BipulTajul) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajul-islam-bipul-01dh/) 
-[![Facebook](https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bipul.kumar.3386) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bipul_kumar_dharla/)
-</p>
+
 
 
 
@@ -77,24 +71,23 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/Bipul-dev01" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/BipulTajul" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://https://www.linkedin.com/in/tajul-islam-bipul-01dh/
-" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/bipul.kumar.3386" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/bipul_kumar_dharla/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <a href="https://github.com/Bipul-dev01" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://twitter.com/BipulTajul" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/tajul-islam-bipul-01dh/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.facebook.com/bipul.kumar.3386" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231B74E4.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.instagram.com/bipul_kumar_dharla/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+  </a>  
+</div>
+
 
 <br/>  
 
