@@ -42,21 +42,19 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=tajulbipul&theme=radical&hide_border=false&include_all_commits=false&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=tajulbipul&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tajulbipul&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=WorldTechnovision&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=WorldTechnovision&theme=radical&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=WorldTechnovision&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tajulbipul&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=WorldTechnovision&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
 
 ---
 
 ## 👀 Profile Visitors
-![](https://komarev.com/ghpvc/?username=tajulbipul&label=Visitors&color=blue&style=flat)  
-
-
+![](https://komarev.com/ghpvc/?username=WorldTechnovision&label=Visitors&color=blue&style=flat)  
 
 ---
 
