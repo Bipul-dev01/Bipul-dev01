@@ -41,23 +41,6 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=WorldTechnovision&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=WorldTechnovision&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=WorldTechnovision&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
-
----
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=WorldTechnovision&theme=radical&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-## 👀 Profile Visitors
-![](https://komarev.com/ghpvc/?username=WorldTechnovision&label=Visitors&color=blue&style=flat)  
-
----
-
 ## 🤝 Let’s Collaborate
 - 🔭 Currently working at **World Technovision**  
 - 🌱 Learning **React.js** for advanced front-end development  
@@ -75,6 +58,17 @@ I’m a friendly, outspoken person who loves collaboration and innovation.
 ---
 
 ✨ *“Code is not just code, it’s creativity at work!”* ✨  
+
+## 🤝 Connect with me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bipul-dev01)  
+[![Twitter](https://img.shields.io/badge/Twitter-%2300acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BipulTajul)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tajul-islam-bipul-01dh/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%232E87FB.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bipul.kumar.3386)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bipul_kumar_dharla/)
+
+
+
 
 
 ## Connect with me  
